@@ -1,0 +1,2 @@
+Scrape the table contents from this link of all the possible pages and the further information contained within each link in each table row
+https://www.uniuneanotarilor.ro/?p=2.2.3 
